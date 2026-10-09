@@ -24,7 +24,9 @@ Upstream:
 
 <img width="1042" height="581" alt="image" src="https://github.com/user-attachments/assets/6734e1fe-d31a-4910-bc63-deef9dc3149e" />
 
+I have struggled editing config files and now I set serial port as primary console and ui as videosecondary, I think this is a mistake
 
+What is best practice?
 ### Soup Router
 
 10.10.1.10/24

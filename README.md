@@ -25,8 +25,17 @@ Upstream:
 <img width="1042" height="581" alt="image" src="https://github.com/user-attachments/assets/6734e1fe-d31a-4910-bc63-deef9dc3149e" />
 
 I have struggled editing config files and now I set serial port as primary console and ui as videosecondary, I think this is a mistake
-
+I have undone this as it was bad practice and stupid but it now makes me thing:
 What is best practice?
+
+I think creating a Virtual laptop or changing laptops to wifi is best practice as in real life I will have my networking laptop either ethernet port 
+
+
+I FIGURED IT OUT IT WAS A DNS ISSUE REGARDING NO UNBOUND DNS QUERY FORWARDING
+
+
+
+
 ### Soup Router
 
 10.10.1.10/24

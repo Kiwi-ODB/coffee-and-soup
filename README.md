@@ -14,7 +14,7 @@ Rough plan
 ## IP Address
 ### Coffee Router 
 
-10.10.1.1
+10.10.0.1
 DHCP Lower - Upper: 10.10.1.100 - 10.10.1.200
 
 ####WAN
@@ -40,5 +40,12 @@ I FIGURED IT OUT IT WAS A DNS ISSUE REGARDING NO UNBOUND DNS QUERY FORWARDING
 
 10.10.1.10/24
 
+
+
+
+
+## working 
+
+<img width="817" height="536" alt="Screenshot 2026-10-14 at 7 02 22 PM" src="https://github.com/user-attachments/assets/c9659d5b-a6f5-47d3-9a9f-85540522096c" />
 
 

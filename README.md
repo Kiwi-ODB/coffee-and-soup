@@ -24,12 +24,14 @@ IP static at 10.10.1.10
 ## Soup Network
 ### Soup Router
 
-### LAN
-10.10.0.1
-DHCP Lower - Upper: 10.10.1.100 - 10.10.0.200
-
 ### WAN
 192.168.0.60
+Upstream:
+192.168.0.1
+
+### LAN
+10.10.0.1
+DHCP Lower - Upper: 10.10.0.100 - 10.10.0.200
 
 ### Soup Client
 IP assigned by DHCP
